@@ -3,9 +3,9 @@
  
  A Hybrid Image Dataset Towards Bridging The Gap Between Real And Simulation Environments For Robotics
 
-This project includes an annotation tool for images called ITurk GUI, which enables users to tag the objects within images with successor objects and links for the dataset.
+This project includes an annotation tool for images called ITurk GUI, which enables users to tag the objects within images with successor objects and links for the dataset. ITurk GUI also allows to specify the pixel-wise limits of the objects you annotate.
 
-After you install and run the ITURK GUI codes by arranging the necessary paths, you can process 24 images at a time until the images to be processed are finished in the folder you retrieve the images.
+After you install and run the ITurk GUI codes by arranging the necessary paths, you can process 24 images at a time until the images to be processed are finished in the folder you retrieve the images.
 
 Please cite us:
 
