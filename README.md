@@ -1,6 +1,9 @@
 # ADORESet
  Annotated Desktop Objects Real and Ersatz Images Dataset
  
+ Link to the paper: 
+ https://link.springer.com/epdf/10.1007/s00138-018-0966-3?author_access_token=2aYSdv2UbdplcVwxeYfTTve4RwlQNchNByi7wbcMAY6tH0b12ZbLNO2xbmENW5Q8jnWq9P5HfxELXvWjj73UVNrJ1hkaqISWi1ICet1vMP2sGHaIFaEx4mr30oJtLRUsxijFYyt0V2G106vUNbTSyw%3D%3D
+ 
  A Hybrid Image Dataset Towards Bridging The Gap Between Real And Simulation Environments For Robotics
 
 This project includes an annotation tool for images called ITurk GUI, which enables users to tag the objects within images with successor objects and links for the dataset. ITurk GUI also allows to specify the pixel-wise limits of the objects you annotate.
