@@ -1,10 +1,7 @@
 # ADORESet
  Annotated Desktop Objects Real and Ersatz Images Dataset
  
- Link to the paper: 
- https://link.springer.com/epdf/10.1007/s00138-018-0966-3?author_access_token=2aYSdv2UbdplcVwxeYfTTve4RwlQNchNByi7wbcMAY6tH0b12ZbLNO2xbmENW5Q8jnWq9P5HfxELXvWjj73UVNrJ1hkaqISWi1ICet1vMP2sGHaIFaEx4mr30oJtLRUsxijFYyt0V2G106vUNbTSyw%3D%3D
- 
- A Hybrid Image Dataset Towards Bridging The Gap Between Real And Simulation Environments For Robotics
+  A Hybrid Image Dataset Towards Bridging The Gap Between Real And Simulation Environments For Robotics
 
 This project includes an annotation tool for images called ITurk GUI, which enables users to tag the objects within images with successor objects and links for the dataset. ITurk GUI also allows to specify the pixel-wise limits of the objects you annotate.
 
@@ -22,6 +19,9 @@ Bayraktar, E., Yigit, C., B., Boyraz, P. (2018). A hybrid image dataset toward b
   year={2018},
   publisher={Springer-Verlag GmbH Germany}
 }
+
+Link to the paper: 
+ https://link.springer.com/epdf/10.1007/s00138-018-0966-3?author_access_token=2aYSdv2UbdplcVwxeYfTTve4RwlQNchNByi7wbcMAY6tH0b12ZbLNO2xbmENW5Q8jnWq9P5HfxELXvWjj73UVNrJ1hkaqISWi1ICet1vMP2sGHaIFaEx4mr30oJtLRUsxijFYyt0V2G106vUNbTSyw%3D%3D
 
 In most cases, machine vision based problems in robotics such as object detection and recognition, object tracking and manipulation are performed using real-world or simulation images, separately. In addition, these images routinely belong to the categories of objects namely tableware, glassware and similar kinds of objects, which may exist on desktops, in the form of relatively small, graspable, pushable states. In consideration of the primary purpose of robotics applications in the field of computer vision and control in terms of imitating humans or obtaining even better results, inclusion of irrelevant object classes in image datasets for instance wild animals, large structures, big vehicles, etc. is infeasible which cause worse performance results. Moreover, time spent during developments in robotics is another variable aimed to be reduced, which restricts maneuverability and diversity. In order to optimize this period, the referred method is to utilize simulation environments, which replicate real-world conditions as much as possible. However, simulation experiments of robotics applications give successful results; the outcomes cannot be directly used in real-world experiments or end-user products by means of inconsistencies between real and simulation environments. In consequence, we propose annotated desktop objects real and ersatz images dataset (ADORESet) that is able to accomplish these issues with its compact form, which provides purposeful object categories with sufficient number of real and synthetic images. 
 
